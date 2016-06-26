@@ -1,7 +1,7 @@
 {
   "name": "montserrat-font",
   "authors": [
-    "Chris Sim <chris.sim@dailyvanity.sg>"
+    "Chris Sim <chris.sim@antpolis.net>"
   ],
   "description": "Font for monsterrat. Created via Font Squirrel Font-face Generator.",
   "main": "stylesheet.css",
@@ -20,6 +20,6 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/foo/bar.git"
+    "url": "git@github.com:Antpolis/Montserrat-Font.git"
   }
 }
