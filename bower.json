@@ -1,0 +1,25 @@
+{
+  "name": "montserrat-font",
+  "authors": [
+    "Chris Sim <chris.sim@dailyvanity.sg>"
+  ],
+  "description": "Font for monsterrat. Created via Font Squirrel Font-face Generator.",
+  "main": "stylesheet.css",
+  "keywords": [
+    "monsterrat",
+    "css"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/foo/bar.git"
+  }
+}
